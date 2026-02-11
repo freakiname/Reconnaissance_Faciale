@@ -154,4 +154,4 @@ Training in the notebook uses `ImageDataGenerator` with augmentation (rotation, 
 
 ## License
 
-This project is for educational purposes (e.g. EMSI / SIG coursework). Use and modify as needed for your assignments and experiments.
+This project is for educational purposes. Use and modify as needed for your assignments and experiments, created by Mohamed Amine Rezoum
